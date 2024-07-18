@@ -1,0 +1,30 @@
+{
+  "name": "bs4starter",
+  "version": "1.0.0",
+  "description": "ghostbums",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "t.d\u001b[D\u001b[D\u001b[\u001b[C\u001b[D\u001b[C\u001b[C",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-changed": "^3.2.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-line-ending-corrector": "^1.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  }
+}
